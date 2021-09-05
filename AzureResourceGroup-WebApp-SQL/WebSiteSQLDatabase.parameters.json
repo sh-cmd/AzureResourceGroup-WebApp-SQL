@@ -6,7 +6,10 @@
       "value": "test-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "shubham"
+    },
+    "administratorLoginPassword": {
+      "value": "Shubham@12345"
     },
     "databaseName": {
       "value": "products"
